@@ -1,0 +1,1 @@
+CREATE DATABASE nunes_sports_db;
